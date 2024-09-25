@@ -1,7 +1,3 @@
-dpeterzen: help me set up a vite react tailwinds project
-
-GitHub Copilot: Sure, let's set up a Vite project with React and Tailwind CSS. Here are the steps:
-
 1. **Create a new Vite project:**
    - Open your terminal and run the following command to create a new Vite project with React template:
      ```sh
